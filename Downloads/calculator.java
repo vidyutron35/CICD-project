@@ -11,7 +11,7 @@ import java.util.Scanner;
       	do
          {
            System.out.print("1. Addition\n");
-           System.out.print("2. Subtraction\n");
+# System.out.print("2. Subtraction\n");
            System.out.print("3. Multiplication\n");
            System.out.print("4. Division\n");
            System.out.print("5. Exit\n\n");
